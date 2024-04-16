@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinStatusbox", "WinStatusbox.csproj", "{B199F5AE-004B-4AF9-B696-926E23920F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B199F5AE-004B-4AF9-B696-926E23920F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B199F5AE-004B-4AF9-B696-926E23920F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B199F5AE-004B-4AF9-B696-926E23920F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B199F5AE-004B-4AF9-B696-926E23920F21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB89963-0A9D-4B42-922C-AA2E0DD13B37}
+	EndGlobalSection
+EndGlobal
